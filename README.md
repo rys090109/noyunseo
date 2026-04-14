@@ -11,3 +11,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
 </p>
+---
+[![Gitanimals](https://render.gitanimals.org/lines/your-github-id)](https://github.com/git-goods/gitanimals)
