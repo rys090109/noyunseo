@@ -13,4 +13,4 @@
 </p>
 
 
-[![Gitanimals](https://render.gitanimals.org/lines/rys090109)](https://github.com/git-goods/gitanimals)
+[![Gitanimals](https://render.gitanimals.org/farms/rys090109)](https://github.com/git-goods/gitanimals)
