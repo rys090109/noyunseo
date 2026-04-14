@@ -12,4 +12,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
 </p>
 ---
+
 [![Gitanimals](https://render.gitanimals.org/lines/rys090109)](https://github.com/git-goods/gitanimals)
